@@ -2,7 +2,7 @@
 
 # Overview
 
-The formik-app component is a React functional component designed to create a simple login form using the Formik library for form management and validation.
+The App component is a React functional component designed to create a simple login form using the Formik library for form management and validation.
 
 # Features
 
